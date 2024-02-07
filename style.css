@@ -54,7 +54,23 @@ h1{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin-bottom: 20px;
   }
+  .form-button button:hover{
+    background-color: #F67305;
+  }
   input:focus{
     border: 1px solid #F65605;
     outline: none;
+  }
+  .header-style{
+    background-color: #F65605;
+    width: 100px;
+    height: 40px;
+    border-radius: 0px 20px 20px 0px; 
+    padding-top:10px;
+  }
+  .header-style span{
+    margin-left: 11px;
+    margin-right: 15px;
+    color: #fff;
+
   }
