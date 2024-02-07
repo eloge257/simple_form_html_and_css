@@ -3,7 +3,9 @@
     background-color: rgb(231, 236, 236);
     margin-left: 25vw;
     margin-right: 25vw;
-    margin-top: 10vw;
+    margin-top: 5vw;
+    border-radius: 5px;
+    box-shadow: 2px 2px #F65605;
 }
 
 h1{
