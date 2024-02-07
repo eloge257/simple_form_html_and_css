@@ -43,6 +43,7 @@ h1{
   input{
     height: 35px;
     border: none;
+    border-radius: 5px;
   }
   .form-button button{
     padding: 10px;
@@ -60,6 +61,7 @@ h1{
   input:focus{
     border: 1px solid #F65605;
     outline: none;
+    box-shadow: 0px 0px 5px #F65605;
   }
   .header-style{
     background-color: #F65605;
@@ -72,5 +74,6 @@ h1{
     margin-left: 11px;
     margin-right: 15px;
     color: #fff;
+    font-family:'Times New Roman', Times, serif;
 
   }
