@@ -40,3 +40,13 @@ h1{
   input{
     height: 35px;
   }
+  .form-button button{
+    padding: 10px;
+    width: 100px;
+    background-color: #F65605;
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 20px;
+  }
