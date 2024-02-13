@@ -83,3 +83,9 @@ h1{
     font-family:'Times New Roman', Times, serif;
 
   }
+
+  /* responsive */
+ 
+@media (max-width: 767px) {
+  
+}
